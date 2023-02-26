@@ -1,0 +1,10 @@
+spring:
+  datasource: 
+    # 配置資料源類型
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test?serverTimezone=UTC
+    username: root
+    password: rootroot
+    
+
+
